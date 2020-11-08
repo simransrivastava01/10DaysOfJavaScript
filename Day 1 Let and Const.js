@@ -1,4 +1,5 @@
 
+//In this challenge, we practice declaring variables using the let and const keywords. Check out the attached tutorial for more details.
 
 function main() {
     // Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
